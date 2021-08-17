@@ -1,0 +1,1 @@
+terminais para que possamos aplicar comandos e assim fazer o computador realizar tarefas a partir desses comandos 

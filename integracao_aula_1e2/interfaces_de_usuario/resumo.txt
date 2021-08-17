@@ -1,0 +1,2 @@
+Portanto, um terminal é uma interface que nos ajuda a nos comunicarmos com um computador, por meio de um teclado para entrada de dados e uma tela que mostra apenas caracteres alfanuméricos (sem gráficos).
+CLI/GUI/NUI

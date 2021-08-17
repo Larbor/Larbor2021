@@ -1,0 +1,7 @@
+Pais da computação
+- Alan Turing (criador da teoria usada até
+hoje);
+- Konrad Zuse (criador do primeiro
+computador elétrico, o Z3);
+- John von Neumann (criador da Arquitetura
+de Von Neumann, usada até hoje)
