@@ -1,1 +1,0 @@
-exemplos de servidores são: web, banco de dados e arquivos
